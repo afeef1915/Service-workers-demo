@@ -30,7 +30,7 @@
     "jasmine-core": "3.4.0",
     "jasmine-marbles": "0.6.0",
     "jquery": "^3.4.1",
-    "jszip": "^3.2.1",
+    "jszip": "^3.7.0",
     "ng-select2": "^1.0.8",
     "ng2-select2": "^1.0.0-beta.16",
     "ngx-bootstrap": "^5.0.0",
